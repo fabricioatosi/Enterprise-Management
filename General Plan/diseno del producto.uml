@@ -1,0 +1,13 @@
+@startuml
+
+title "Procedimiento de disenyo del servicio"
+
+(*) --> "Definicion y descripcion" as DD
+DD --> "Procedimiento de trabajo" as PT
+PT --> "Tarifas" as T
+T --> "Estrategia publicitaria" as EP
+EP --> (*)
+
+
+
+@enduml
