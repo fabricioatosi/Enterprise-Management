@@ -1,0 +1,30 @@
+@startuml
+
+
+object "Producto" as P
+
+object "Plataforma Publicitaria" as PP
+
+object "Marketing" as M
+
+object "Plan de comunicaciones" as PC
+
+object "Plan de trabajo" as PT
+
+
+
+P *-- PP
+P *-- M
+P *-- PC
+P *-- PT
+
+
+
+
+
+
+
+
+
+
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+
+
+(*) --> "Definir producto" as dp
+dp --> "Definir plan de trabajo" as pt
+pt --> "Definimos la plataforma publicitaria" as pp
+pp --> "Definicion del Marketing" as m
+m --> "Crear el plan de comunicaciones"
+
+
+
+
+
+
+
+ 
+@enduml
