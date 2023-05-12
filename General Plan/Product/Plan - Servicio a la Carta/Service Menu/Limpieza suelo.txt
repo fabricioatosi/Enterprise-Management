@@ -3,13 +3,25 @@ Descripcion del servicio:
 limpieza del suelo.
 
 
-Procedimiento de trabajo:
 
+Procedimiento de trabajo:
+Se moveran los moviliarios no pesados
+Se moveran los moviliarios pesados
+Aspirar y fregar con fregona
+Aspirar y fregar con máquina
 
 
 
 Tarifas:
+Se moveran los moviliarios no pesados
+1 hambiente  $12  pequeño
+1 hambiente  $19  mediano
+1 hambiente  $29 grande 
 
+Se moveran los moviliarios pesados
+1 hambiente  $22  pequeño
+1 hambiente  $29  mediano
+1 hambiente  $46 grande 
 
 
 

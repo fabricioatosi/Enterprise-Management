@@ -1,14 +1,23 @@
 Descripcion del servicio:
 
-limpieza del horno y las hornallas.
+limpieza del horno 
 
 
 Procedimiento de trabajo:
 
-
+Se pone en el interior el profucto espesifico, se enciende el tiempo que el fabricante recomienda.
+Una vez apagado y esperado el tiempo sufisciente para que enfrie un poco se sacan
+Las rejillas y bandejas del horno y limpian con el producto y lana de acero.
+Desenchufar o cerrar el gas en su caso.
+Con trapos viejos  y/ o papel se quita el producto del interior y para las manchas dificiles lana de acero.
+Se aclara , seca y se vuelve a enchufar o abrir el gas.
 
 
 Tarifas:
+Sucio:            $75
+Muy sucio:   $98
+Exterior del horno:  $15
+
 
 
 
