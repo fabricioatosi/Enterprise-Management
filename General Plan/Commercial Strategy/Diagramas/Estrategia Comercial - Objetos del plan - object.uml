@@ -1,0 +1,45 @@
+@startuml
+
+object "estrategia comercial" as ec 
+
+
+object web {
+	descripcion de la empresa
+    descripcion del tipo de servicio
+    descripcion de productos
+	listado de tarifas
+    contacto
+    metodo de trabajo
+    medios de pago
+    solicitud de servicio
+}
+
+
+object "Plan de comunicaciones" as pc {
+	flyers
+    emails
+    comunicaciones telefonicas
+    atencion al cliente
+}
+
+object "Plan publicitario" as pp {
+	listado de canales
+    estrategia por canal
+    marketing
+}
+
+
+
+
+
+
+ec *-- web
+ec *-- pc
+ec *-- pp
+
+
+
+
+
+
+@enduml
