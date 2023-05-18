@@ -1,0 +1,11 @@
+test comunicacion con Agente Inmobiliario :
+
+
+
+- localizar agentes con email
+- prepara oferta de producto
+- preparar flyer
+- enviar comunicacion
+- medir resultados
+
+
