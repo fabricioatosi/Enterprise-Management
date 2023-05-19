@@ -1,0 +1,30 @@
+@startuml
+
+state "Recopilacion de Requisitos" as rr
+state "Analisis de requisitos" as ar
+state "Disenyo de producto" as dp
+state "Implementacion del plan general" as pg
+state "Fase de test" as t
+state "Puesta en Produccion" as p
+state "Mantenimiento" as m
+
+
+[*] --> rr
+rr --> ar
+ar --> dp
+dp --> pg
+pg --> t
+t --> p
+p --> m
+
+
+
+
+
+
+
+
+
+
+
+@enduml
