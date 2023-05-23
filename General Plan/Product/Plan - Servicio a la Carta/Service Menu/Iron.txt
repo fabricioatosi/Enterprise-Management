@@ -6,12 +6,18 @@ https://www.airtasker.com/us/costs/ironing/ironing-prices/
 
 
 Procedimiento de trabajo:
+En casa
 Recogida en dia y hora establecido
 Planchado con agua destilada
 Perchas y cajas, para ropa doblada
 Entrega en dia y hora establecido
+En casa del cliente
+Asistir
+planchar con sus productos
+Regresar a casa
 
-List of Items: 
+List of Items: 1
+
 Baby items  $2	
 Shirt                $4
 Linen shirt   $5
@@ -27,6 +33,14 @@ Delicate clothing    $ to be determined
 Duvet covers      $10
 
 
+
+List of Items:2
+Todas las prendas llevan el mismo precio. $2 
+Sheets and  2 pillowcases    $10
+Delicate clothing    $ to be determined
+Duvet covers      $10
+
+
 Tarifas:
 por número de prendas,    $3
 por su peso total   4,40 lb  $35
@@ -34,22 +48,18 @@ por hora                                   $30 -$40
 por clase de prenda        ver precios en   List of Items
 perchas  
 perchas de pinza
-servicio de recogida y entrega gratuita si vives en  proximidades. Los servicios de recogida y entrega gratuitos tienen un coste mínimo de pedido para utilizar los servicios de  $40 
-
-
+servicio de recogida y entrega gratuita si vives en  proximidades. Los servicios de recogida y entrega gratuitos tienen un coste mínimo de pedido para utilizar los servicios de  $50 
+electricity and distilled water $20
+gas    $20
 
 
 Estrategia comercial:
 
-Otro procedimiento y tarifas
+Dar tres posibilidades al cliente:
+Planchado en su casa máximo 3hs 
+Planchado en la mia minimo 40 prendas primera vez , luego 30 cada vez. 
+Bajar la cantidad de prendas será mejor mentalmente para el cliente, creerá que gasta menos posiblemente. 
+Exponerle los precios detallados por packs
+Pedirle que nos recomiende a otros clientes y por cada cliente que contrate darles un Gif de 3  pantalones planchados.
 
-Hi. I have been ironing for about 28 years. 
- When you have 40 pieces, $120 dollars. 
-Includes ironing, gas and electricity 
-I will need all the hangers  
-O
-You can bring the pieces to my house and then pick them up. Then it would be $100
-
-Another option is to come to your house every week for two hours $100
-I will need distilled water
 
