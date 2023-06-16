@@ -1,0 +1,39 @@
+@startgantt
+
+Project starts 2023-06-14
+
+-- HairSalon Website project --
+[Requirements] as [R] lasts 3 days
+note bottom
+90% completed
+end note
+[R] starts 2023-06-14
+[R] ends 2023-06-17
+
+[Design] as [D] lasts 7 days
+note bottom
+40% completed
+end note
+[D] starts 2023-06-17
+[D] ends 2023-06-24
+
+
+[Implementation] as [I] lasts 16 days
+note bottom
+25% completed
+end note
+[I] starts 2023-06-21
+[I] ends 2023-06-30
+
+
+[R]  is colored in pink
+[D]  is colored in lightblue
+[I]  is colored in greenyellow
+
+
+[R] is 90% completed
+[D] is 40% completed
+[I] is 25% completed
+
+
+@endgantt
