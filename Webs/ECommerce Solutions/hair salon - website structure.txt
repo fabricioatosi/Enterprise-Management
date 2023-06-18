@@ -1,0 +1,21 @@
+@startuml
+
+
+object "site" as s
+object "company description" as desc
+object "products description" as prod
+object "hair salon" as hair
+object "antiques" as ant
+
+object "contact information" as contact
+
+s *-- desc
+s *-- prod
+s *-- contact
+
+prod *-- hair
+prod *-- ant
+
+
+
+@enduml
