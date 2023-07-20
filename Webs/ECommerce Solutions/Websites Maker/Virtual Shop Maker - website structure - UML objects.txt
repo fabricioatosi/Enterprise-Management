@@ -1,0 +1,59 @@
+@startuml
+
+title Virtual Shop Maker - site structure
+
+
+object "home" as s {
+  company overview,
+  vision and objectives,
+  target market,
+  target customer
+}
+
+object "Our products" as p {
+  Brief description of the different products we offer
+}
+
+object "Booking System" as book {
+  functional example of our booking system product
+}
+
+object "Online store" as store {
+  functional example of our ecommerce product
+}
+
+object "Landing pageg" as landing {
+  functional example of our landing page product
+}
+
+p *-- book
+p *-- store
+p *-- landing
+
+
+object "contact" as contact {
+  address and map,
+  phone number,
+  email
+}
+
+object "WhatsApp" as chat {
+  Instant communication with our customer service team by WhatsApp with just one click
+}
+
+object "Make an appointment" as appointment {
+Make an appointment with our team and meet them by video, chat, phone or in person at our offices
+}
+
+
+contact *-- chat
+contact *-- appointment
+
+
+s *-- p
+s *-- contact
+
+
+
+
+@enduml
