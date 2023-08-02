@@ -1,0 +1,68 @@
+@startuml
+
+title Anamilia - site structure
+
+
+object "home" as s {
+  company overview,
+  vision and objectives,
+  target market,
+  target customer
+}
+
+object "Our products" as p {
+  Brief description of the different products we offer
+}
+
+object "Booking" as book {
+  book a service
+}
+
+object "Services Store" as shop {
+  online shop of services
+}
+
+object "Scheduler" as calendar{
+  booking system
+}
+
+object "Checkout" as checkout {
+  record a service order
+}
+
+
+book *-- shop
+book *-- calendar
+book *-- checkout
+
+
+
+p *-- book
+p *-- chat
+p *-- contact
+
+
+object "contact" as contact {
+  address and map,
+  phone number,
+  email
+}
+
+object "WhatsApp" as chat {
+  Instant communication with our customer service team by WhatsApp with just one click
+}
+
+
+
+contact *-- chat
+
+
+s *-- p
+s *-- chat
+s *-- book
+s *-- contact
+
+
+
+
+@enduml

@@ -1,0 +1,23 @@
+function restrict_orders_to_specific_area( $passed, $product_id ) {
+    // Define the allowed zip codes for the specific area
+    $allowed_zip_codes = array( 'ZIPCODE1', 'ZIPCODE2', 'ZIPCODE3' );
+
+    // Get the customer's shipping address
+    $shipping_address = WC()->customer->get_shipping_address();
+
+    // Get the zip code from the shipping address
+    $shipping_zip_code = ! empty( $shipping_address['postcode'] ) ? $shipping_address['postcode'] : '';
+
+    // Check if the shipping zip code is in the allowed list
+    if ( ! in_array( $shipping_zip_code, $allowed_zip_codes ) ) {
+        // Display an error message
+        wc_add_notice( 'Orders are restricted to specific zip codes.', 'error' );
+
+        // Prevent the order from being processed
+        $passed = false;
+    }
+
+    return $passed;
+}
+add_filter( 'woocommerce_add_to_cart_validation', 'restrict_orders_to_specific_area', 10, 2 );
+add_filter( 'woocommerce_checkout_process', 'restrict_orders_to_specific_area', 10, 2 );
