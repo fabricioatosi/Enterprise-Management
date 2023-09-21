@@ -1,0 +1,20 @@
+@startuml
+
+
+object "site" as s
+object "company description" as desc
+object "products description" as prod
+object "contact information" as contact
+
+s *-- desc
+s *-- prod
+s *-- contact
+
+
+
+
+
+
+
+
+@enduml
