@@ -13,14 +13,14 @@ Aspirar y fregar con máquina
 
 Tarifas:
 Se moveran los moviliarios no pesados
-1 hambiente  $12  pequeño
-1 hambiente  $19  mediano
-1 hambiente  $29 grande 
+1 ambiente  $12  pequeño
+1 ambiente  $19  mediano
+1 ambiente  $29 grande 
 
 Se moveran los moviliarios pesados
-1 hambiente  $22  pequeño
-1 hambiente  $29  mediano
-1 hambiente  $46 grande 
+1 ambiente  $22  pequeño
+1 ambiente  $29  mediano
+1 ambiente  $46 grande 
 
 
 
