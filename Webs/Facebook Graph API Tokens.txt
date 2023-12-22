@@ -1,0 +1,29 @@
+User Long Lived Token (60 days):
+
+curl -i -X GET "https://graph.facebook.com/oauth/access_token?grant_type=fb_exchange_token&
+  client_id=APP-ID&
+  client_secret=APP-SECRET&
+  fb_exchange_token=SHORT-LIVED-USER-ACCESS-TOKEN"
+
+
+
+https://graph.facebook.com/oauth/access_token?grant_type=fb_exchange_token&
+  client_id=270407812571567&
+  client_secret=877fc74012a6d6d7ec64167c439f44e5&
+  fb_exchange_token=EAAD17zmc4a8BOZBeXy2Kyw2cCVsA36MSTpPUsfKT7HCjj0ZCr5jZAjUKGqb8Q6uAodibWXrJcvhbRftCFWAhXpWfvtidli2YDVmKq5BRE4XgeIcotrswH42WyTwGxa1YncYIGyrsZBngoKiyEiNcD5dvxCO1QsbjPeCc70gTMZCq5EJkqG0rllgnzdXvPzVtJvZBbG23DMHggtfqnv6RZB8DTkIBmEdoeYZD
+
+
+
+------------------------------------
+
+Page Long Lived Token (no expiration):
+
+
+curl -i -X GET "https://graph.facebook.com/PAGE-ID?
+  fields=access_token&
+  access_token=USER-ACCESS-TOKEN"
+
+
+
+-----------------------------------
+
